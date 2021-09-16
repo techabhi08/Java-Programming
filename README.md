@@ -8,3 +8,7 @@ files also which would be explaining the concepts and theory. I would also apper
 remember we will move slowly and topic-wise.
 
 After completing this Repository I would change its description accordingly and would update on regular intervals.
+
+### Updates Required
+I need to update the readme in every folder and I will try to update them and provide some important points of the respective
+topics as well after uploading all the begineer topics. I will try my best to make this repository a perfect guide.
